@@ -27,7 +27,7 @@ An advanced, responsive calculator built using HTML, CSS, and JavaScript. This c
 You can view a live demo of this calculator by simply opening the `index.html` file in a browser.
 
 ## Live at
- live at https://eng-natole.github.io/calculator/
+ live at https://NatiDevHQ.github.io/calculator/
  
 ## How to Use
 
