@@ -3,7 +3,7 @@
 
 
 
-# Calculator
+# Calculator BEGINNER Pro
 
 An advanced, responsive calculator built using HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations, power calculations, percentage operations, and includes a dark/light theme toggle. The design features a modern look with smooth animations, and it's fully functional with keyboard support.
 
